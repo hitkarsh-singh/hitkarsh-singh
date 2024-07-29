@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hitkarsh Singh</h1>
 <h3 align="center">A passionate fullstack developer and learner from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitkarsh-singh&label=Profile%20views&color=0e75b6&style=flat" alt="hitkarsh-singh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitkarsh-singh" alt="hitkarsh-singh" /></a> </p>
-
 - 🔭 I’m currently working on [a calendar web-app with interactive widgets](https://github.com/hitkarsh-singh/calendar_app_ror)
 
 - 🌱 I’m currently learning **Ruby on Rails and Backbone.js**
